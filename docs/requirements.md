@@ -1,6 +1,4 @@
-### Requirements
-Functional reqs:
-
+### Functional Requirements
 
 **Users**
 1. Users should be able to create an account
