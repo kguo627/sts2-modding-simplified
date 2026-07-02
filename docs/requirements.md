@@ -18,3 +18,10 @@
 ### Web app
 1. Users should be able search for mod packs
 2. Users should be able to upvote or downvote mod packs (downvotes invisible)
+
+
+### Nonfunctional reqs
+
+1. handle version updates gracefully
+2. Limit entities per account (So there is no unbounded costs in case bot gets in)
+3. Bot detection on account signup
